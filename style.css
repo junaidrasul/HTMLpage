@@ -1,3 +1,53 @@
-html{
-    background-color:aqua ;
+body{
+background-color: cadetblue;
+}
+.container{
+
+width: 1000px;
+height: 650px;
+border: 2px solid black;
+background-color: #06300b;
+margin-left: 100px;
+
+}
+div{
+box-shadow: 10px 10px 10px 10px black;
+}
+.box1{
+height: 150px;
+width: 150px;
+border: 2px solid black;
+margin: 50px;
+text-align: center;
+margin-left: 400px;
+background-color: beige; 
+}  
+.box2{
+height: 150px;
+width: 150px;
+border: 2px solid black;
+margin: 50px;
+text-align: center;
+margin-left: 400px;
+background-color: beige; 
+
+}
+.box3{
+ background-color: beige;   
+height: 150px;
+width: 150px;
+border: 2px solid black;
+margin: 50px;
+text-align: center;
+margin-left: 400px;
+}
+.box1:hover{
+    background-color: #ce3131;
+}
+.box2:hover{
+background-color: blueviolet;
+}
+.box3:hover{
+
+    background-color: blue;
 }
